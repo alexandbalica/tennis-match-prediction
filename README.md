@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 3. Open the notebook:
 jupyter notebook tennis_match_prediction.ipynb
-The notebook automatically loads saved models if available, or trains them once and stores them for future runs.📝 AuthorAlex Balica
+The notebook automatically loads saved models if available, or trains them once and stores them for future runs.
 
 ---
 
