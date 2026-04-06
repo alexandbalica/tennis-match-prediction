@@ -70,6 +70,7 @@ The notebook automatically loads saved models if available, or trains them once 
 
 Alex Balica
 Professional Tennis Coach — Boca Bridges Racquet Club
+
 Machine Learning & Sports Analytics Enthusiast
 
 ---
